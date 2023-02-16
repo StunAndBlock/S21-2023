@@ -1,0 +1,5 @@
+opened with default TextEditor
+used commands
+ctrl+c
+ctrl+v
+ctrl+s
